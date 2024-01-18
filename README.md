@@ -24,3 +24,27 @@ Linear Regression ML Blocks Demo: Hong Kong Housing Price <br />
 
 * Follow through Linear Regression Building Blocks demo jupyter notebook, when applying new dataset, investigate the features and do customized data cleansing before applying training
 
+
+### Model training process
+
+*Training without regularization<br />
+![image](https://github.com/haynyh/ResNet-CNN-Object-Detection-for-Autonomous-Driving/assets/46237598/11b230b9-7364-4549-95d9-8f1be71513c2)
+
+
+![image](https://github.com/haynyh/ResNet-CNN-Object-Detection-for-Autonomous-Driving/assets/46237598/73128d7c-18b4-4cd3-a2aa-54f253bfab38)
+
+<br />
+
+*Training with regularization<br />
+![image](https://github.com/haynyh/ResNet-CNN-Object-Detection-for-Autonomous-Driving/assets/46237598/981a5c05-b6e1-4a89-bca3-56029b328a05)
+
+
+![image](https://github.com/haynyh/ResNet-CNN-Object-Detection-for-Autonomous-Driving/assets/46237598/b6d2ce17-c38f-463f-9d7f-d535bc4afb7f)
+
+
+
+
+<br />
+### Prediction examples
+
+![image](https://github.com/haynyh/ResNet-CNN-Object-Detection-for-Autonomous-Driving/assets/46237598/772d1188-df1d-4714-a5f1-b712d655a632)
